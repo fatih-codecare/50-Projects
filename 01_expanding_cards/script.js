@@ -11,5 +11,4 @@ function removeActiveClasses() {
   panels.forEach((item) => {
     item.classList.remove("active");
   });
-  console.log("a")
 }
